@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stratasoft</string>
+    <string name="press_again_to_close_the_app"><![CDATA[<string name=\"press_again_to_close_the_app\">Press again to Exit the app</string>]]></string>
+</resources>
